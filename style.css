@@ -1,0 +1,13 @@
+p {
+	color: blue;
+}
+h2 {
+	text-align: center;
+	border: 3px skyblue solid;
+	padding: 5px;
+}
+
+li {
+	text-decoration: none;
+	display: inline-block;
+}
