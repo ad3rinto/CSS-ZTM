@@ -1,13 +1,21 @@
 p {
 	color: blue;
+	padding: 0px, 50px;
 }
 h2 {
 	text-align: center;
 	border: 3px skyblue solid;
-	padding: 5px;
+	padding: 0px, 50px;
+	cursor: progress;
+	background-color: beige;
 }
 
 li {
 	text-decoration: none;
 	display: inline-block;
+}
+
+ul {
+	text-align: right;
+	margin: auto;
 }
